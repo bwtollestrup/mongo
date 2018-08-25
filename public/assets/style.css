@@ -22,6 +22,9 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: #f7c244;
 }
+.article {
+    background: white;
+}
 .footer{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
